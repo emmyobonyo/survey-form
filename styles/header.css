@@ -1,0 +1,14 @@
+header {
+    margin: auto;
+    color: white;
+    margin-top: 40px;
+    background-color: rgba(44, 130, 201, 0.8);
+    width: 50%;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+header p {
+    margin-top: -10px;    
+    font-variant: small-caps;
+}
